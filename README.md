@@ -1,5 +1,5 @@
 # Tools for future planning
-```
+```mermaid!
 sequenceDiagram
     participant Alice
     participant Bob
