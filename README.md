@@ -1,6 +1,6 @@
 # Tools for future planning
 An example of a graph
-```mermaid!
+```mermaid
 sequenceDiagram
     participant Alice
     participant Bob
