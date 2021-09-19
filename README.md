@@ -1,4 +1,5 @@
 # Tools for future planning
+An example of a graph
 ```mermaid!
 sequenceDiagram
     participant Alice
