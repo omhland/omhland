@@ -92,7 +92,7 @@ The PNG files should must be stored in the same project as the README.md file. T
 ```
 ```xml
 Insert xml code here
-``` ```
+```
 
 ## Quick start: <a name="quick_start"></a>
 We will have a quick look at how md files work. First, let's see how this file was formatted!
@@ -111,14 +111,15 @@ echo 'hello world!'
 mkdir .some_hidden_folder
 ls
 ```
-The output of this **command** is empty. However, try
+The output of this **command** is empty. This is because of the '.' in the folder name. Now try:
+
 ```
 ls -a
-```
-This returns
-```
+
+output:
 .some_hidden_folder
 ```
+
 ##### Adding diagrams
 Have a look at this awsome *diagram*:
 ![alt text](./uml-example/pngegg.png)
